@@ -134,7 +134,7 @@ Principales tablas:
 
 Este proyecto está bajo licencia MIT. Ver `LICENSE` para más detalles.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Martín Ferrada
 
