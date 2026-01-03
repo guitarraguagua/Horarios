@@ -137,4 +137,5 @@ Este proyecto está bajo licencia MIT. Ver `LICENSE` para más detalles.
 ## 👨‍💻 Autor
 
 Martín Ferrada
+
 Javier Catalán
