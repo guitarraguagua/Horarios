@@ -1,0 +1,705 @@
+CRITICAL - 2025-07-06 01:44:17 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:47:06 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:55:13 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:55:15 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:55:29 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:55:29 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:55:29 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:57:42 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 02:57:44 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:00:05 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:01:12 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:03:31 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:04:59 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:05:05 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:07:10 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:07:20 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:10:00 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:10:02 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:11:21 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:11:23 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:46 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:47 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:47 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:47 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:47 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:48 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:48 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:48 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:12:48 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:15:41 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:15:41 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: generar-horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:16:54 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:19:28 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:22:36 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:24:36 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:27:45 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:27:47 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:28:42 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:01 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:01 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:01 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:01 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:02 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:02 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:04 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:05 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-06 03:29:05 --> ErrorException: require_once(C:\xampp\htdocs\guitarraguagua-project\Framework\app\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory
+[Method: GET, Route: horario]
+in APPPATH\Controllers\GenerarHorarioCon.php on line 4.
+ 1 APPPATH\Controllers\GenerarHorarioCon.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\ThirdParty/fpdf/fpdf.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php', 4)
+ 2 APPPATH\Controllers\GenerarHorarioCon.php(4): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\guitarraguagua-project\\Framework\\app\\Controllers\\GenerarHorarioCon.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\GenerarHorarioCon')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\GenerarHorarioCon')
+ 7 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\GenerarHorarioCon', true)
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(63): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
